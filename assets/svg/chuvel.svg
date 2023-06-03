@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53" height="91" viewBox="0 0 53 91">
+  <g id="GoDown-Farm" transform="translate(-252 -857)">
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="53" height="91" rx="10" transform="translate(252 857)" fill="#e3e3e3"/>
+    <path id="shovel-down" d="M48.074,52.4V21.246l4.872-5.9V9.855H51.574V9.786a.688.688,0,0,0-.686-.686h-7.48a.688.688,0,0,0-.686.686v.069H41.28v5.49l4.872,5.9V52.4H40.8v7.068a5.888,5.888,0,0,0,6.313,5.764,5.888,5.888,0,0,0,6.313-5.764V52.4ZM42.378,15V10.953h.343v.069a.688.688,0,0,0,.686.686h7.411a.806.806,0,0,0,.755-.686v-.069h.274V15l-4.735,5.7Z" transform="translate(231.387 865.333)" fill="#414042"/>
+  </g>
+</svg>
